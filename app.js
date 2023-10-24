@@ -9,3 +9,4 @@ var dataHex = aesjs.utils.hex.fromBytes(dataBytes);
 
 console.log('Dado encriptado: ' + dataHex);
 
+
